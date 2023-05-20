@@ -1,0 +1,12 @@
+h1,div,section{
+    border: 8px solid transparent;
+    padding: 20px;
+    text-align:center;
+}
+
+section{
+    border-color:black;
+}
+h1{
+    border-color:rgba(0, 133, 254, 0.44);
+}
